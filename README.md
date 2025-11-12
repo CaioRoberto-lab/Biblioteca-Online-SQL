@@ -3,9 +3,11 @@ Sistema de Biblioteca Online
 Este projeto simula um sistema de gerenciamento de biblioteca, permitindo cadastrar livros, usuários, empréstimos e devoluções.
 
 Integrantes:
-- João Silva — Desenvolvedor Principal  
-- Maria Souza — Gestora de Configuração  
-- Lucas Pereira — Revisor de Código  
+- Caio Roberto de Almeida Silva — Desenvolvedor Principal  
+- André Luiz Barbosa Gomes — Gestor de Configuração  
+- Guilherme Paiva de Jesus — Revisor de Código
+- Erick Alexandre dos Santos Bequi — QA Analyst
+   
 
 Estrutura do Projeto:
 - `/docs` → documentação do projeto  
