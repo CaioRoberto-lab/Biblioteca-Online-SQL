@@ -1,20 +1,20 @@
 Planejamento da Configuração
 
 Itens de Configuração:
-- Scripts SQL (criação e inserção de dados)
-- Documentação básica do repositório (README e CONFIGURACAO)
+ Scripts SQL (criação e inserção de dados)
+ Documentação básica do repositório (README e CONFIGURACAO)
 
 Convenções de Nomeação:
-- Branches:
-  - main  versão estável
-  - develop  integração
-  - feature/nome-da-funcionalidade → novas funcionalidades
-  - bugfix/descricao-do-bug → correções
-- Commits:
-  - feat:  nova funcionalidade
-  - fix:  correção de erro
-  - docs: → atualização de documentação
-  - chore: → manutenção
+ Branches:
+   main  versão estável
+   develop  integração
+   feature/nome-da-funcionalidade → novas funcionalidades
+   bugfix/descricao-do-bug → correções
+ Commits:
+   feat:  nova funcionalidade
+   fix:  correção de erro
+   docs: → atualização de documentação
+   chore: → manutenção
 
 Política de Versionamento:
 Usar SemVer: MAJOR.MINOR.PATCH  
