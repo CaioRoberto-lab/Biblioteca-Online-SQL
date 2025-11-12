@@ -1,6 +1,10 @@
 
-CREATE DATABASE biblioteca_online;
-USE biblioteca_online;
+Banco de Dados
+
+Aqui estão os scripts SQL do projeto de biblioteca online.
+
+- biblioteca.sql → Criação das tabelas principais  
+- inserts.sql → Dados de exemplo para teste
 
 
 CREATE TABLE usuario (
@@ -138,3 +142,4 @@ SELECT r.id_reserva, u.nome AS usuario, l.titulo AS livro, r.data_reserva, r.sta
 FROM reserva r
 JOIN usuario u ON r.id_usuario = u.id_usuario
 JOIN livro l ON r.id_livro = l.id_livro;
+
