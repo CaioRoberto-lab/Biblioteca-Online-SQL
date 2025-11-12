@@ -1,1 +1,1 @@
-Tabela SQL de uma Biblioteca Online criando bando de dados, desenvolvida para um projeto integrador feito por 3 alunos. Caio Roberto de Almeida Silva, Guilherme Paiva de Jesus, Julia Santos
+Tabela SQL de uma Biblioteca Online criando bando de dados, desenvolvida para um projeto integrador do curso de Sistemas de Informação. UNASP-HT
