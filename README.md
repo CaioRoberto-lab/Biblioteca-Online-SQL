@@ -1,1 +1,19 @@
-Tabela SQL de uma Biblioteca Online criando bando de dados, desenvolvida para um projeto integrador do curso de Sistemas de Informação. UNASP-HT
+Sistema de Biblioteca Online
+
+Este projeto simula um sistema de gerenciamento de biblioteca, permitindo cadastrar livros, usuários, empréstimos e devoluções.
+
+Integrantes:
+- João Silva — Desenvolvedor Principal  
+- Maria Souza — Gestora de Configuração  
+- Lucas Pereira — Revisor de Código  
+
+Estrutura do Projeto:
+- `/docs` → documentação do projeto  
+- `/database` scripts SQL e modelo de dados  
+
+Tecnologias Utilizadas:
+- MySQL 
+- GitHub (Controle de versão)
+
+Objetivo:
+Demonstrar o uso do GitHub para controle de versão, colaboração e gerenciamento de configuração de software.
