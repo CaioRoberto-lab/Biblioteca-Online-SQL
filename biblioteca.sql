@@ -3,7 +3,7 @@ USE biblioteca;
 
 CREATE TABLE livros (
   id INT AUTO_INCREMENT PRIMARY KEY,
-  titulo VARCHAR(100),
+  titulo VARCHAR(150),
   autor VARCHAR(100),
   ano_publicacao INT
 );
